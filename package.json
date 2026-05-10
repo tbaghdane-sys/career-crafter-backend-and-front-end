@@ -1,4 +1,5 @@
 {
+  "name": "career-crafter-backend-and-front-end",
   "scripts": {
     "start": "node server.js"
   },
