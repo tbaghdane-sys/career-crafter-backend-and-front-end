@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "node index.js"
+    "start": "node server.js"
   },
   "dependencies": {
     "@clerk/clerk-sdk-node": "^4.13.23",
